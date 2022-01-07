@@ -1,9 +1,0 @@
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\bin\Debug\SQLiteClient.exe.config
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\bin\Debug\SQLiteClient.exe
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\bin\Debug\SQLiteClient.pdb
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\obj\Debug\SQLiteClient.csproj.AssemblyReference.cache
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\obj\Debug\SQLiteClient.Properties.Resources.resources
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\obj\Debug\SQLiteClient.csproj.GenerateResource.cache
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\obj\Debug\SQLiteClient.csproj.CoreCompileInputs.cache
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\obj\Debug\SQLiteClient.exe
-C:\Users\Andrey\source\repos\pavel1250\Test_C-SHARP\SQLiteClient\SQLiteClient\obj\Debug\SQLiteClient.pdb
