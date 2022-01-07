@@ -2,4 +2,5 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/SQLiteClient/SQLiteClient/obj/Debug
+/SQLiteClient/SQLiteClient/obj
+/SQLiteClient/SQLiteClient/bin
